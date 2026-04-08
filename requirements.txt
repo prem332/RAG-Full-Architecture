@@ -1,0 +1,12 @@
+pypdf==4.3.1
+langchain-text-splitters==0.3.8
+langgraph==0.3.21
+langchain-core==0.3.51
+sentence-transformers==3.4.1
+chromadb==0.6.3
+groq==0.13.1
+streamlit==1.44.0
+python-dotenv==1.1.0
+pandas==2.2.3
+numpy==2.2.4
+ipykernel==6.29.5
